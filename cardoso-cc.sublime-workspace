@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"logomo",
+				"logoMovileFooter"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			],
+			[
+				"col-l",
+				"col-lg-12"
+			],
+			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"chat",
+				"chatBoxWindow"
+			],
+			[
+				"head",
+				"head-title"
+			],
+			[
+				"crae",
+				"crane"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"nav",
+				"navbar-custom"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"ful",
+				"full-bar-fixed"
+			],
+			[
+				"fu",
+				"full-bar"
+			],
+			[
+				"full",
+				"full-bar-scrolled"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-hover-menu"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ur",
+				"url-image-path"
+			],
+			[
+				"PAD",
+				"padding-bottom"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"Clar",
+				"Claro-SP"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"broy",
+				"browserSync"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elcardoson/Movile/botland-landing-page/app/index.html",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/style.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/js/scrolling-nav.js",
+		"/Users/elcardoson/Movile/botland-landing-page/dist/index.html",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/scrolling-nav.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/media-queries.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/features-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/about-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/buttons.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/stars.less",
+		"/Users/elcardoson/Movile/botland-landing-page/dist/js/scrolling-nav.js",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/footer-section.less",
+		"/Users/elcardoson/Downloads/ef_conv_zip_qzkCGD36jumD3Ss3HGLuhgeF/CircularStdBold.css",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/fonts.less",
+		"/Users/elcardoson/Movile/botland-landing-page/gulpfile.js",
+		"/Users/elcardoson/Movile/botland-landing-page/app/less/integration-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/app/images/arrowScroll.png",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/index.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home.html",
+		"/Users/elcardoson/Movile/botland-landing-page/less/scrolling-nav.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/style.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/integration-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/footer-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/media-queries.less",
+		"/Users/elcardoson/Movile/botland-landing-page/package.json",
+		"/Users/elcardoson/Movile/botland-landing-page/bower.json",
+		"/Users/elcardoson/Movile/botland-landing-page/less/features-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/variables.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/buttons.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/about-section.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/footer.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/stars.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/services-section.less",
+		"/Users/elcardoson/github-personal/vanecardoso.com.br/app/scss/media-queries.scss",
+		"/local.cfg",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-variables.less",
+		"/Users/elcardoson/Movile/botland-landing-page/less/fonts.less",
+		"/Users/elcardoson/Downloads/transfonter.org-20160930-183849/demo.html",
+		"/Users/elcardoson/Downloads/transfonter.org-20160930-183849/stylesheet.css",
+		"/Users/elcardoson/Movile/kiwi-login/gulpfile.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/gulpfile.js",
+		"/Users/elcardoson/Movile/rocket-design/Rocket.Chat/node_modules/es5-ext/test/iterable/validate.js",
+		"/Users/elcardoson/Movile/bower.json",
+		"/Users/elcardoson/Movile/kiwi-login/app/css/style.css",
+		"/Users/elcardoson/Movile/kiwi-login/app/index.html",
+		"/Users/elcardoson/Movile/kiwi-login/app/aligner-center.html",
+		"/Users/elcardoson/Movile/kiwi-login/app/css/style-teste.css",
+		"/Users/elcardoson/Downloads/solved-by-flexbox-master/gulpfile.js",
+		"/Users/elcardoson/Movile/kiwi-login/app/css/style-teste",
+		"/Users/elcardoson/Movile/kiwi-login/app/js/app.js",
+		"/Users/elcardoson/Movile/kiwi-login/.bowerrc",
+		"/Users/elcardoson/Movile/kiwi-login/package.json",
+		"/Users/elcardoson/Movile/angularExperiments/app/index.html",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/footer.php",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/js/kiwi.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/header.php",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/src/less/header.less",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/src/less/style.less",
+		"/Users/elcardoson/Downloads/resize-header-on-scroll/index.html",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/js/teste.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/js/customizer.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/style.css",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/index.php",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/src/less/admin.less",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/css/style.css",
+		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/gulpfile.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/src/less/rtl.less",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/src/less/normalize.css",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/css/admin.css",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/package.json",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/package.json",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/casper/package.json",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/gulpfile.js",
+		"/Users/elcardoson/Movile/Information-Center/wordpress/wp-content/themes/kiwi/README.md",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/app.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/product.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/product/application.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/product_navigation.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/settings.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-side.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-top.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kiwi-with-legacy-theme.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-footer.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-dashboard-styles.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/sidemenu.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/metrics/metrics.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/user_menu.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/show_audience_options.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/use_saved_audience.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/i18n/en_US.json",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/upload_new_file.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/push_segmentation.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/admin/customer_happiness.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/admin/customerHappiness/userProfile.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/admin.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/admin/customerHappiness.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/admin/customer_happiness/user_profile.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-buttons.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/admin/customerHappiness/userProfile",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-customer-happiness.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/templates/input/button_radio.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/segments.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-forms.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/segments/new_segment.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/product.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/scripts/controllers/home/admin/identityPools.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push.html",
+		"/Users/elcardoson/Downloads/customerHappiness.js",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-audience.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/segments/edit_segment.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/send_to_everyone.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/segment_add.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/modal_use_saved_audience.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/clone_created_audience.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/audience_header.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/create_new_audience.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users_new_edit_audience.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-push.less",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/send.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/content.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/content/ios.html",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/styles/kiwi-with-legacy-theme.css",
+		"/Users/elcardoson/Movile/kiwi-manager-ui/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509CertificateCollection.as",
+		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/scss/media-queries.scss",
+		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/index.html",
+		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/scss/style.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".intro-section",
+			"intro",
+			"cityFeatures",
+			"city",
+			"crane",
+			"bulletUL",
+			"arrowScroll",
+			"favicon",
+			"logoMovileFooter",
+			"letter",
+			"getstar",
+			"bout",
+			"navbar-ex1-collapse",
+			"darke",
+			"body",
+			"wp-nav-menu",
+			".menu",
+			"menu",
+			"menu-navigation",
+			"main-na",
+			".site",
+			"\t\n",
+			"blog-logo",
+			"h1",
+			"stream.js",
+			"h1",
+			".breadcrumb",
+			"breadcrumb",
+			".breadcrumb",
+			"breadcrumb",
+			"divider",
+			"hr",
+			".kw-dashboard",
+			"margin-top:-30px",
+			"margin-top: -30px",
+			"margin-top:-30px",
+			"kw-dashboard",
+			"menu-top-nav >",
+			"kw-team",
+			"kw-support",
+			"documentation",
+			"audience-option",
+			"send from",
+			"audience",
+			".caret",
+			"input-group-btn",
+			"#d4d4d4",
+			"kw-button-radio",
+			"@line-height-computed ",
+			"padding-base-vertical",
+			"line-height-computed",
+			"form",
+			".form-control",
+			"form-control",
+			"padding: 20px 30px;",
+			".dropdown-menu li a",
+			"36px",
+			".caret",
+			"form-control",
+			"table-striped",
+			"kw-segment-filter-list-conditions",
+			"bg-titles-graphs",
+			"buttons",
+			"btn-success",
+			"kw-dashboard",
+			"kw-structure-main",
+			"kw-streucture-main",
+			"dashboard",
+			"dashboard.html",
+			"customer_happiness",
+			"identity pool",
+			"indetity pool",
+			"indentity pool",
+			"header",
+			"TODO",
+			"ng-scope",
+			"ng-app",
+			"hover",
+			"a:",
+			"link",
+			"text-decoration",
+			"sidebar",
+			"text-decoration: underline;",
+			"hover",
+			"ng-binding",
+			".kw-button-switch",
+			"behavior-audience-whitespace-2",
+			"<div class=\"col-md-12 text-right\" style=\"margin-top: -5%;\">",
+			"send-to-everyone-footer-text",
+			"audience-estimated-affected-users",
+			".push-section-title span",
+			".kw-button-switch",
+			"kw-button-switch",
+			"kw-select-label",
+			".kw-group-btn",
+			"kw-group-btn",
+			"kw-select",
+			"button.btn",
+			".export-button",
+			"export-button",
+			";\n",
+			"page-top",
+			"phone",
+			".</",
+			";\n",
+			"marker",
+			"displaymarkers",
+			"hero",
+			"HERO",
+			"work",
+			"networks",
+			"netwhens",
+			"work",
+			"startHeader",
+			"hero",
+			"start",
+			"hero"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"where",
+			"when",
+			"startHeader"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "cardoso-cc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".kw-select",
+				"node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509CertificateCollection.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
