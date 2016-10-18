@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sr",
+				"scripts"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
 				"bac",
 				"background-color"
 			],
@@ -223,14 +231,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "bower.json",
-			"settings":
-			{
-				"buffer_size": 500,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -274,11 +274,28 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/elcardoson/github-personal/cardoso.cc",
+		"/Users/elcardoson/github-personal/cardoso.cc/app"
+	],
 	"file_history":
 	[
+		"/Users/elcardoson/github-personal/cardoso.cc/app/index.html",
+		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile.js",
+		"/Users/elcardoson/Movile/botland-landing-page/gulpfile.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/main.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/less/styles.less",
+		"/Users/elcardoson/github-personal/cardoso.cc/package.json",
+		"/Users/elcardoson/github-personal/cardoso.cc/app/styles/styles.css",
+		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile copy.js",
+		"/Users/elcardoson/Movile/botland-landing-page/app/js/scrolling-nav.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/teste2.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/teste.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/.gitignore",
+		"/Users/elcardoson/github-personal/cardoso.cc/bower.json",
 		"/Users/elcardoson/Movile/botland-landing-page/app/index.html",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/style.less",
-		"/Users/elcardoson/Movile/botland-landing-page/app/js/scrolling-nav.js",
 		"/Users/elcardoson/Movile/botland-landing-page/dist/index.html",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/scrolling-nav.less",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/media-queries.less",
@@ -290,7 +307,6 @@
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/footer-section.less",
 		"/Users/elcardoson/Downloads/ef_conv_zip_qzkCGD36jumD3Ss3HGLuhgeF/CircularStdBold.css",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/fonts.less",
-		"/Users/elcardoson/Movile/botland-landing-page/gulpfile.js",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/integration-section.less",
 		"/Users/elcardoson/Movile/botland-landing-page/app/images/arrowScroll.png",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/index.html",
@@ -392,18 +408,7 @@
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/modal_use_saved_audience.html",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/clone_created_audience.html",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/audience_header.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/create_new_audience.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users_new_edit_audience.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-push.less",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/send.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/content.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/content/ios.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/styles/kiwi-with-legacy-theme.css",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509CertificateCollection.as",
-		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/scss/media-queries.scss",
-		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/index.html",
-		"/Users/elcardoson/Box Sync/_2016/Casamento/Site/website/app/scss/style.scss"
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users.html"
 	],
 	"find":
 	{
@@ -559,39 +564,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "bower.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 500,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

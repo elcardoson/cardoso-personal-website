@@ -26,10 +26,14 @@
     "browser-sync": "^2.17.3",
     "gulp": "^3.9.1",
     "gulp-bower": "0.0.13",
+    "gulp-clean-css": "^2.0.13",
     "gulp-concat": "^2.6.0",
     "gulp-less": "^3.1.0",
     "gulp-load-plugins": "^1.3.0",
     "gulp-tinypng": "^1.0.2",
     "path": "^0.12.7"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^2.0.13"
   }
 }
