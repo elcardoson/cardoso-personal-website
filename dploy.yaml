@@ -20,4 +20,4 @@ live:
         local: deploy/
         remote: /var/www/vhosts/cardoso.cc/
     include:
-        "components/**/*.*": "components/"
+        "deploy/components/**/*.*": "components/"
