@@ -16,7 +16,8 @@ live:
     user: ec2-user
     privateKey: /Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem
     check: true
-    include: "components": "components/"
     path:
-        local: deploy/
+        local: deploy/*
         remote: /var/www/vhosts/cardoso.cc/
+    include:
+        "components/**/*.*": "components/"
