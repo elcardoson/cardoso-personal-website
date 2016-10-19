@@ -1,39 +1,65 @@
+@import "buttons.less";
 
-
-html, body{
-	background-color: blue;
+html,body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
 }
 
-
-.bla{
-	background-color: blue;
-	height:100vh; 
-}
-
-.container{
-	background-color: white;
-	margin: 25px;
+.headlines-setup{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: -1.5px;
 }
 
 h1{
-	font-size: 50px;
-	font-family: 'Montserrat', sans-serif;
-}
-h2{
-	font-size: 30px;
-	font-family: 'Montserrat', sans-serif;
+	&:extend(.headlines-setup);
+	font-size: 60px;
+	font-weight: 700;
 }
 
-p{
-	font-family: 'Montserrat', sans-serif;
+h2{
+	&:extend(.headlines-setup);
+	font-size: 30px;
 }
+
+.headline{
+	display: block;
+	width: 100%;
+	height: 70px;
+	color: #322FEA;
+}
+
+
+.box{
+	height: 660px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+
+.p-exp{
+	margin-top: 20px;
+
+}
+
 .p-release{
-	width: 40%;
+	margin-top: 20px;
+	margin-bottom: 0px;	
+}
+
+.p-release-cont{
+	margin:0px;
+	padding:0px;
+}
+
+.p-currently{
+	margin-top: 20px;
 }
 
 ul{
 	list-style: none;
 	padding: 0px;
+	margin-top: 30px;
 }
 ul li{
 	display: inline-block;
@@ -44,3 +70,30 @@ ul li{
 .padd{
 	padding-left: 18px;
 }
+
+@media (max-width: 767px) {
+
+	h1{
+		font-size: 45px;
+	}
+
+	h2{
+		font-size: 25px;
+	}
+	.headline{
+		height: 50px;
+	}
+
+	.p-exp{
+		margin-top: 30px;
+	}
+
+	p{
+		font-size: 18px;
+	}
+
+}
+
+
+
+

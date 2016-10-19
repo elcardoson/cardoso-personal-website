@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"p-",
+				"p-release"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
 				"sr",
 				"scripts"
 			],
@@ -14,14 +38,6 @@
 			[
 				"bac",
 				"background-color"
-			],
-			[
-				"mar",
-				"margin-top"
-			],
-			[
-				"pad",
-				"padding-top"
 			],
 			[
 				"ba",
@@ -46,10 +62,6 @@
 			[
 				"bor",
 				"border-bottom"
-			],
-			[
-				"u",
-				"uppercase"
 			],
 			[
 				"text",
@@ -82,10 +94,6 @@
 			[
 				"crae",
 				"crane"
-			],
-			[
-				"te",
-				"text-align"
 			],
 			[
 				"lis",
@@ -158,10 +166,6 @@
 			[
 				"margi",
 				"margin"
-			],
-			[
-				"fo",
-				"focus"
 			],
 			[
 				"co",
@@ -281,11 +285,13 @@
 	],
 	"file_history":
 	[
+		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/main.js",
 		"/Users/elcardoson/github-personal/cardoso.cc/app/index.html",
+		"/Users/elcardoson/github-personal/cardoso.cc/less/styles.less",
+		"/Users/elcardoson/github-personal/cardoso.cc/less/buttons.less",
+		"/Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem",
 		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile.js",
 		"/Users/elcardoson/Movile/botland-landing-page/gulpfile.js",
-		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/main.js",
-		"/Users/elcardoson/github-personal/cardoso.cc/less/styles.less",
 		"/Users/elcardoson/github-personal/cardoso.cc/package.json",
 		"/Users/elcardoson/github-personal/cardoso.cc/app/styles/styles.css",
 		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile copy.js",
@@ -406,9 +412,7 @@
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/send_to_everyone.html",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/segment_add.html",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/modal_use_saved_audience.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/clone_created_audience.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/audience_header.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/estimated_affected_users.html"
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/clone_created_audience.html"
 	],
 	"find":
 	{

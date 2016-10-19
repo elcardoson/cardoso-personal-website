@@ -1,10 +1,6 @@
     $(function(){
-
-
-
-
         $("#element").typed({
-            strings: ["Tiago Cardoso.", "Cardoso."],
+            strings: ["Tiago Cardoso", "Cardoso"],
              // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
             stringsElement: null,
             // typing speed
@@ -38,9 +34,4 @@
             // callback for reset
             resetCallback: function() {}
         });
-
-
-
-
-
     });
