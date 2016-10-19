@@ -1,0 +1,23 @@
+dev:
+    scheme: sftp
+    host: ec2-52-11-94-124.us-west-2.compute.amazonaws.com
+    port: 22
+    user: ec2-user
+    privateKey: /Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem
+    check: true
+    path:
+        local: deploy/
+        remote: /var/www/vhosts/cardoso.cc/dev/
+
+live:
+    scheme: sftp
+    host: ec2-52-11-94-124.us-west-2.compute.amazonaws.com
+    port: 22
+    user: ec2-user
+    privateKey: /Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem
+    check: true
+    path:
+        local: deploy/
+        remote: /var/www/vhosts/cardoso.cc/
+    include:
+        "deploy/components/**/*.*": "components/"
