@@ -17,7 +17,7 @@ live:
     privateKey: /Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem
     check: true
     path:
-        local: deploy/*
+        local: deploy/
         remote: /var/www/vhosts/cardoso.cc/
     include:
         "components/**/*.*": "components/"
