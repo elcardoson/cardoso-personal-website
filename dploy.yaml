@@ -9,17 +9,6 @@ dev:
         local: deploy/
         remote: /var/www/vhosts/cardoso.cc/dev/
 
-stage:
-    scheme: ftp
-    host: ftp.my-stage-server.com
-    port: 21
-    user: user
-    pass: password
-    check: true
-    path:
-        local: release/
-        remote: public_html/
-
 live:
     scheme: sftp
     host: ec2-52-11-94-124.us-west-2.compute.amazonaws.com
@@ -27,6 +16,7 @@ live:
     user: ec2-user
     privateKey: /Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem
     check: true
+    include: "components": "components/"
     path:
         local: deploy/
         remote: /var/www/vhosts/cardoso.cc/
