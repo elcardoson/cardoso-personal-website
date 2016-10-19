@@ -12,7 +12,7 @@ var path = require('path');
 var del = require('del');
 
 gulp.task('clean', function(){
-  return del('./dist/**/*');
+  return del('./deploy/**/*');
 });
 
 gulp.task('copy-all', function() {
@@ -21,7 +21,7 @@ gulp.task('copy-all', function() {
               'app/css/**/*.*',
               'app/images/*.*',
               'app/**/*.html'], { "base" : "./app" })
-        .pipe(gulp.dest('./dist/'));
+        .pipe(gulp.dest('./deploy/'));
 });
 
 
@@ -29,7 +29,7 @@ gulp.task('copy-all', function() {
 gulp.task('serve', ['copy-all', 'html', 'minify-css'], function() {
 
     browserSync.init({
-         server: "./dist"
+         server: "./deploy"
     });
    // gulp.watch("./less/*.less").on('change', browserSync.reload);
     gulp.watch("app/js/*.js", ['scripts, copy-all']);
@@ -51,14 +51,14 @@ gulp.task('less', function () {
     .pipe(less({
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))
-    .pipe(gulp.dest('./dist/css'))
+    .pipe(gulp.dest('./deploy/css'))
     .pipe(browserSync.stream());
 });
 
 gulp.task('minify-css', ['less'], function() {
-  return gulp.src('./dist/css/styles.css')
+  return gulp.src('./deploy/css/styles.css')
     .pipe(cleanCSS({compatibility: 'ie8'}))
-    .pipe(gulp.dest('./dist/css/'))
+    .pipe(gulp.dest('./deploy/css/'))
     .pipe(browserSync.stream());
 });
 
@@ -66,7 +66,7 @@ gulp.task('minify-css', ['less'], function() {
 gulp.task('scripts', function() {
     return gulp.src('./app/scripts/*.js')
       .pipe(concat('main.js'))
-      .pipe(gulp.dest('./dist/scripts/'));
+      .pipe(gulp.dest('./deploy/scripts/'));
 });
 
 
