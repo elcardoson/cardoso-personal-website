@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background-color"
+			],
+			[
+				"de",
+				"deploy"
+			],
+			[
+				"ss",
+				"scripts"
+			],
+			[
 				"mar",
 				"margin-top"
 			],
@@ -54,10 +66,6 @@
 			[
 				"m",
 				"margin"
-			],
-			[
-				"back",
-				"background"
 			],
 			[
 				"bor",
@@ -281,24 +289,28 @@
 	"expanded_folders":
 	[
 		"/Users/elcardoson/github-personal/cardoso.cc",
-		"/Users/elcardoson/github-personal/cardoso.cc/app"
+		"/Users/elcardoson/github-personal/cardoso.cc/less"
 	],
 	"file_history":
 	[
-		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/main.js",
-		"/Users/elcardoson/github-personal/cardoso.cc/app/index.html",
 		"/Users/elcardoson/github-personal/cardoso.cc/less/styles.less",
+		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/dploy.yaml",
+		"/Users/elcardoson/github-personal/cardoso.cc/.gitignore",
+		"/Users/elcardoson/github-personal/cardoso.cc/README",
+		"/Users/elcardoson/github-personal/cardoso.cc/package.json",
+		"/Users/elcardoson/github-personal/cardoso.cc/dist/index.html",
+		"/Users/elcardoson/github-personal/cardoso.cc/app/index.html",
+		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/main.js",
+		"/Users/elcardoson/github-personal/cardoso.cc/dist/scripts/main.js",
 		"/Users/elcardoson/github-personal/cardoso.cc/less/buttons.less",
 		"/Users/elcardoson/BoxSync/ServerAWS/elgrandcardoson.pem",
-		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile.js",
 		"/Users/elcardoson/Movile/botland-landing-page/gulpfile.js",
-		"/Users/elcardoson/github-personal/cardoso.cc/package.json",
 		"/Users/elcardoson/github-personal/cardoso.cc/app/styles/styles.css",
 		"/Users/elcardoson/github-personal/cardoso.cc/gulpfile copy.js",
 		"/Users/elcardoson/Movile/botland-landing-page/app/js/scrolling-nav.js",
 		"/Users/elcardoson/github-personal/cardoso.cc/teste2.js",
 		"/Users/elcardoson/github-personal/cardoso.cc/app/scripts/teste.js",
-		"/Users/elcardoson/github-personal/cardoso.cc/.gitignore",
 		"/Users/elcardoson/github-personal/cardoso.cc/bower.json",
 		"/Users/elcardoson/Movile/botland-landing-page/app/index.html",
 		"/Users/elcardoson/Movile/botland-landing-page/app/less/style.less",
@@ -408,11 +420,7 @@
 		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push.html",
 		"/Users/elcardoson/Downloads/customerHappiness.js",
 		"/Users/elcardoson/Movile/kiwi-manager-ui/less/kw-audience.less",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/segments/edit_segment.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/send_to_everyone.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/segment_add.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/modal_use_saved_audience.html",
-		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/push/audience/clone_created_audience.html"
+		"/Users/elcardoson/Movile/kiwi-manager-ui/app/views/home/application/segments/edit_segment.html"
 	],
 	"find":
 	{
