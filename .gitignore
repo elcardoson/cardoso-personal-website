@@ -2,6 +2,8 @@ node_modules
 components
 cardoso-cc.sublime-project
 cardoso-cc.sublime-workspace
+deploy
+deploy.yaml
 .DS_Store
 
 
